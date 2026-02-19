@@ -1,12 +1,12 @@
 # 📩 Spam Mail Prediction using Machine Learning 🤖
-Deep dive into Binary Classification! ⚙️✅
+## Deep dive into Binary Classification! ⚙️✅
 
 I have successfully completed my Spam Mail Prediction project, utilizing Logistic Regression 📈 to map engineered text features to a clear 'spam' (0) 🗑️ or 'ham' (1) ✉️ label.
 
 The success of this project hinged on effective data transformation 🔄 and maximizing the predictive power of a simple, yet highly efficient, algorithm. Simple models, big impact. 🚀⚡️
 
 ## Project Highlights ✨
-#### Data Cleaning: Handled raw data by replacing null values with empty strings to ensure seamless processing 🧹.
+Data Cleaning:Handled raw data by replacing null values with empty strings to ensure seamless processing 🧹.
 
 Feature Extraction: Leveraged TfidfVectorizer to transform raw text into numerical feature vectors that a machine can understand 🔢.
 
