@@ -36,5 +36,31 @@ A simple algorithm that classifies data based on the nearest neighbors 📍
 ![Decision Tree](https://user-images.githubusercontent.com/101402562/189331654-05b0356b-3c98-496d-b5b3-3fde43261cc7.png)
 
 
+## 🔸 IV] Random Forest
+
+An ensemble method 🌲🌲 that combines multiple decision trees for better accuracy.
+
+
+![Random Forest](https://user-images.githubusercontent.com/101402562/189331766-8c63cb6a-313c-4d60-a59e-878ed04a19bd.png)
+
+
+
+## 🔸 V] Naive Bayes
+
+A probabilistic algorithm 📊 based on Bayes' theorem, used for classification tasks.
+
+## 🔸 VI] Neural Network
+
+Inspired by the human brain 🧠, it processes data through layers of neurons.
+
+## 🔸 VII] Stochastic Gradient Descent (SGD)
+
+An optimization algorithm ⚡ used to minimize loss and improve model accuracy.
+
+## 📈 Conclusion
+
+Machine Learning is a powerful tool 💡 used in real-world applications like recommendation systems, fraud detection, and automation 🚀.
+
+
 
 
