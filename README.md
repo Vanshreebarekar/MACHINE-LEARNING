@@ -18,4 +18,7 @@ Reinforcement Learning 🎮 trains an agent using rewards 🎯 and penalties ❌
 ## 🔸 I] K-Nearest Neighbor (KNN)
 
 A simple algorithm that classifies data based on the nearest neighbors 📍
+
+
+
 ![KNN](https://user-images.githubusercontent.com/101402562/189331221-1f3f5dcf-aaa4-427d-a845-4142cd19a076.png)
