@@ -28,3 +28,13 @@ A simple algorithm that classifies data based on the nearest neighbors 📍
 
 ![SVM](https://user-images.githubusercontent.com/101402562/189331537-fe401383-f512-4dbe-b96d-546859d4db36.png)
 
+
+## 🔸 III] Decision Tree
+
+
+
+![Decision Tree](https://user-images.githubusercontent.com/101402562/189331654-05b0356b-3c98-496d-b5b3-3fde43261cc7.png)
+
+
+
+
