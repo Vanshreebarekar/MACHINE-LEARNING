@@ -22,3 +22,9 @@ A simple algorithm that classifies data based on the nearest neighbors 📍
 
 
 ![KNN](https://user-images.githubusercontent.com/101402562/189331221-1f3f5dcf-aaa4-427d-a845-4142cd19a076.png)
+
+## 🔸 II] Support Vector Machine (SVM)
+
+
+![SVM](https://user-images.githubusercontent.com/101402562/189331537-fe401383-f512-4dbe-b96d-546859d4db36.png)
+
