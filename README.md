@@ -1,7 +1,7 @@
 # MACHINE-LEARNING 🤖
 Machine Learning (ML) 🤖 is a part of AI 🧠 that helps systems learn from data 📊 and make predictions without explicit programming. It improves over time ⏳ and is used in tasks like classification, recommendations, and predictive analysis 📈.
 
-##🚀 Types of Machine Learning
+### 🚀 Types of Machine Learning
 ## 🔹 1. Supervised Learning
 
 Supervised Learning uses labeled data 🏷️ to train models. It learns a mapping between input and output to make accurate predictions.
@@ -18,3 +18,4 @@ Reinforcement Learning 🎮 trains an agent using rewards 🎯 and penalties ❌
 ## 🔸 I] K-Nearest Neighbor (KNN)
 
 A simple algorithm that classifies data based on the nearest neighbors 📍
+![KNN](https://user-images.githubusercontent.com/101402562/189331221-1f3f5dcf-aaa4-427d-a845-4142cd19a076.png)
